@@ -47,6 +47,17 @@ Predictions for 'r': [25. 17.]
 Time taken for Model 1 prediction: 0.0099 seconds
 ```
 
+## Cite This Work
+
+```
+@article{chatterjee2024mits,
+  title={MITS: A Quantum Sorcerer Stone For Designing Surface Codes},
+  author={Chatterjee, Avimita and Kundu, Debarshi and Ghosh, Swaroop},
+  journal={arXiv preprint arXiv:2402.11027},
+  year={2024}
+}
+```
+
 ## Contact
 
 For any questions or inquiries about this project, please contact:
