@@ -21,7 +21,7 @@ The project requires the following Python packages:
 - time
 - joblib
 
-You can install these packages using pip:
+You can install these packages using pip.
 
 ## How to Run?
 
